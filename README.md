@@ -29,7 +29,7 @@ The articles related to processing-in-memory
 
 (HPCA 2019) [Analysis and Optimization of the Memory Hierarchy for Graph Processing Workloads](https://ieeexplore.ieee.org/document/8675225)
 
-(ASPLOS 2019) [FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture](https://arxiv.org/abs/1901.09904
+(ASPLOS 2019) [FPSA: A Full System Stack Solution for Reconfigurable ReRAM-based NN Accelerator Architecture](https://arxiv.org/abs/1901.09904)
 
 (ISCA 2019) [Sparse ReRAM engine: joint exploration of activation and weight sparsity in compressed neural networks](https://dl.acm.org/doi/pdf/10.1145/3307650.3322271)
 
